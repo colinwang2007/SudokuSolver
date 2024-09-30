@@ -6,7 +6,7 @@ Sudoku is a simple yet perplexing puzzle that I've struggled with for multiple y
 
 To use the program, enter the nine by nine grid inside the system monitor, each row taking up one line and each column seperated by a space. Type in the corresponding number for each grid or the number "0" for empty cells. An example input is shown below:
 
-9 0 0 0 0 7 4 2 0
+9 0 0 0 0 7 4 2 0\n
 0 0 0 0 1 8 0 0 9
 2 0 0 0 9 0 0 0 5
 8 0 0 0 7 0 0 0 0
